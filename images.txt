@@ -5,3 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64/v8 ubuntu:rolling
+--platform=linux/arm64/v8 btpanel/baota:7.9.4-lib
