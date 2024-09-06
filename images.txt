@@ -7,3 +7,4 @@
 --platform=linux/arm64/v8 ubuntu:rolling
 --platform=linux/arm64/v8 btpanel/baota:7.9.4-lib
 --platform=linux/arm64/v8 ubuntu:focal-20240530
+--platform=linux/arm64 bitnami/kafka:latest
