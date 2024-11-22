@@ -13,3 +13,4 @@
 --platform=linux/amd64 mongo:8.0.0-rc19-noble
 --platform=linux/amd64 wurstmeister/zookeeper:latest
 --platform=linux/amd64 wurstmeister/kafka:latest
+--platform=linux/amd64 ubuntu:24.04
