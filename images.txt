@@ -14,3 +14,4 @@
 --platform=linux/amd64 wurstmeister/zookeeper:latest
 --platform=linux/amd64 wurstmeister/kafka:latest
 --platform=linux/amd64 ubuntu:24.04
+--platform=linux/amd64 nvidia/cuda:11.7.1-devel-ubuntu20.04
