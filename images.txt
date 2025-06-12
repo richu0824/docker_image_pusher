@@ -18,4 +18,9 @@
 #--platform=linux/amd64 serengil/deepface:latest
 #--platform=linux/arm64/v8 arm64v8/mongo:8.0-noble
 # --platform=linux/arm64/v8 arm64v8/mongo:latest
---platform=linux/arm64/v8 arm64v8/mongo:latest
+# --platform=linux/arm64/v8 arm64v8/mongo:latest
+--platform=linux/amd64 langgenius/dify-web:0.15.3
+--platform=linux/amd64 langgenius/dify-api:0.15.3
+--platform=linux/amd64 langgenius/dify-sandbox:0.2.10
+--platform=linux/amd64 postgres:15-alpine
+--platform=linux/amd64 langgenius/dify-api:0.15.3
