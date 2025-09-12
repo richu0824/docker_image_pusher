@@ -19,8 +19,12 @@
 #--platform=linux/arm64/v8 arm64v8/mongo:8.0-noble
 # --platform=linux/arm64/v8 arm64v8/mongo:latest
 # --platform=linux/arm64/v8 arm64v8/mongo:latest
---platform=linux/amd64 langgenius/dify-web:0.15.3
---platform=linux/amd64 langgenius/dify-api:0.15.3
---platform=linux/amd64 langgenius/dify-sandbox:0.2.10
---platform=linux/amd64 postgres:15-alpine
---platform=linux/amd64 langgenius/dify-api:0.15.3
+#--platform=linux/amd64 langgenius/dify-web:0.15.3
+#--platform=linux/amd64 langgenius/dify-api:0.15.3
+#--platform=linux/amd64 langgenius/dify-sandbox:0.2.10
+#--platform=linux/amd64 postgres:15-alpine
+#--platform=linux/amd64 langgenius/dify-api:0.15.3
+--platform=linux/amd64 langgenius/dify-web:1.8.1
+--platform=linux/amd64 langgenius/dify-api:1.8.1
+--platform=linux/amd64 langgenius/dify-sandbox:0.2.12
+--platform=linux/amd64 langgenius/dify-plugin-daemon:0.2.0-local
