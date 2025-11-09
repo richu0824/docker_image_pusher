@@ -30,4 +30,5 @@
 #--platform=linux/amd64 langgenius/dify-api:1.8.1
 #--platform=linux/amd64 langgenius/dify-sandbox:0.2.12
 #--platform=linux/amd64 langgenius/dify-plugin-daemon:0.2.0-local
+
 --platform=linux/amd64 openjdk:8
