@@ -23,11 +23,12 @@
 # --platform=linux/arm64/v8 arm64v8/redis:6.2.19
 #--platform=linux/amd64 langgenius/dify-web:0.15.3
 #--platform=linux/amd64 langgenius/dify-api:0.15.3
-#--platform=linux/amd64 langgenius/dify-sandbox:0.2.10
+#--platform=linux/amd64 lang--platform=linux/amd64genius/dify-sandbox:0.2.10
 #--platform=linux/amd64 postgres:15-alpine
 #--platform=linux/amd64 langgenius/dify-api:0.15.3
 #--platform=linux/amd64 langgenius/dify-web:1.8.1
 #--platform=linux/amd64 langgenius/dify-api:1.8.1
 #--platform=linux/amd64 langgenius/dify-sandbox:0.2.12
 #--platform=linux/amd64 langgenius/dify-plugin-daemon:0.2.0-local
---platform=linux/amd64 openjdk:8u121
+#--platform=linux/amd64 openjdk:8u121
+--platform=linux/amd64 golang:1.24
