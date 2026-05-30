@@ -32,4 +32,8 @@
 #--platform=linux/amd64 langgenius/dify-plugin-daemon:0.2.0-local
 #--platform=linux/amd64 openjdk:8u121
 #--platform=linux/amd64 golang:1.24
---platform=linux/amd64 rustfs/rustfs:latest
+#--platform=linux/amd64 rustfs/rustfs:latest
+--platform=linux/amd64 docker.io/library/caddy:2-alpine
+--platform=linux/amd64 docker.io/valkey/valkey:7-alpine
+--platform=linux/amd64 docker.io/searxng/searxng:latest
+--platform=linux/amd64 ptonlix/langchain-searxng:v0.1.8
