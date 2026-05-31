@@ -37,4 +37,5 @@
 #--platform=linux/amd64 docker.io/valkey/valkey:7-alpine
 #--platform=linux/amd64 docker.io/searxng/searxng:latest
 #--platform=linux/amd64/v1 ptonlix/langchain-searxng:v0.1.8
---platform=linux/amd64/v1 docker.io/library/python:3.10.11
+#--platform=linux/amd64/v1 docker.io/library/python:3.10.11
+--platform=linux/amd64/v1 ghcr.io/astral-sh/uv:debian
