@@ -49,4 +49,5 @@
 #--platform=linux/amd64 python:3.12-slim
 #--platform=linux/amd64 node:20-alpine
 # --platform=linux/amd64 algebr/openface:latest
---platform=linux/amd64 kuboard:v3.5.0
+# --platform=linux/amd64 kuboard:v3.5.0
+--platform=linux/amd64 mjsobrep/openpose
