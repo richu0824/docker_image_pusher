@@ -50,4 +50,5 @@
 #--platform=linux/amd64 node:20-alpine
 # --platform=linux/amd64 algebr/openface:latest
 # --platform=linux/amd64 kuboard:v3.5.0
---platform=linux/amd64 mjsobrep/openpose
+# --platform=linux/amd64 mjsobrep/openpose
+--platform=linux/amd64 minio/minio:RELEASE.2022-05-26T05-48-41Z
